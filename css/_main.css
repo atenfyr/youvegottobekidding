@@ -1,0 +1,9 @@
+body, html { background: url(../assets/bg.gif) top left repeat; height:100%; margin:0; padding: 0 }
+#mainFeature { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100% }
+#copyright { font-family: "Comic Sans MS", serif; color: #eee; text-align: center;}
+#restart { font-size: 30px; color: #eee !important}
+
+/*============ YOU'VE GOT TO BE KIDDING ==============*/
+/*#mainFeature table { margin:0 auto; background-color:#fff;}*/
+#kidding_table img { float:left; }
+#kiddingWrapper { background-color:#fff; padding:5px; border:1px solid #478E8E; margin:0 auto;}
