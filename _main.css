@@ -1,4 +1,4 @@
-body, html { background: url(bg.gif) top left repeat; height:100%; margin:0; padding: 0 }
+body, html { background: url(assets/bg.gif) top left repeat; height:100%; margin:0; padding: 0 }
 #mainFeature { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100% }
 #copyright { font-family: "Comic Sans MS", serif; color: #eee; text-align: center;}
 #restart { font-size: 30px; color: #eee !important}
